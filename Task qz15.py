@@ -31,3 +31,7 @@ else:
                                 print ("NHIF is Ksh 1600")
                             else:
                                 print("No montly contributions to make")
+
+
+
+                                
