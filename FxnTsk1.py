@@ -21,3 +21,5 @@ print(area_of_triangle)
 
 area_of_triangle =area_of_tri(k,b,h)
 print("The triangle area is: ",area_of_triangle)
+
+
